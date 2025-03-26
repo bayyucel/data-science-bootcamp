@@ -1,6 +1,6 @@
 # Data Science Bootcamp Portfolio
 
-Bu repo, [Bootcamp İsmi] süresince gerçekleştirdiğim tüm çalışmaların ve projelerin bir araya getirildiği kişisel portföyümdür. Python programlama, veri analizi, istatistiksel testler, öneri sistemleri ve makine öğrenmesi gibi temel veri bilimi konularını kapsamaktadır.
+Bu repo, [Miuul] süresince gerçekleştirdiğim tüm çalışmaların, ders notlarının ve projelerin bir araya getirildiği kişisel portföyümdür. Python programlama, veri analizi, istatistiksel testler, öneri sistemleri ve makine öğrenmesi gibi temel veri bilimi konularını kapsamaktadır.
 
 ## 📚 İçerik
 
