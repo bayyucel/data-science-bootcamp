@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Users\yucel\AppData\Local\Temp\amazon_review.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="C:\Users\yucel\AppData\Local\Temp\course_reviews.csv">
           <value>
             <Attribute>
