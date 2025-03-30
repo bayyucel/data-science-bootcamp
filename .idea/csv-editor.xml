@@ -38,6 +38,48 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="C:\Users\yucel\OneDrive\Masaüstü\Miuul\recommender_systems\datasets\movie_lens_dataset\genome_tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\yucel\OneDrive\Masaüstü\Miuul\recommender_systems\datasets\movie_lens_dataset\link.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\yucel\OneDrive\Masaüstü\Miuul\recommender_systems\datasets\movie_lens_dataset\movie.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\yucel\OneDrive\Masaüstü\Miuul\recommender_systems\datasets\the_movies_dataset\links.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\yucel\OneDrive\Masaüstü\Miuul\recommender_systems\datasets\the_movies_dataset\links_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\yucel\OneDrive\Masaüstü\Miuul\recommender_systems\datasets\the_movies_dataset\ratings_small.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
