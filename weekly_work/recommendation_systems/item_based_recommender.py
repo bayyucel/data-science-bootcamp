@@ -65,7 +65,7 @@ def create_user_movie_df():
     rating = pd.read_csv('datasets/movie_lens_dataset/rating.csv')
     df = movie.merge(rating, how="left", on="movieId")
     comment_counts = pd.DataFrame(df["title"].value_counts())
-    rare_movies = comment_counts[comment_counts["title"] <= 1000].index
+    rare_movies = comment_counts[comment_counts["title"] <= 1000].index #İşlem süresinin düşmesi için sayı arttırılabilir.
     common_movies = df[~df["title"].isin(rare_movies)]
     user_movie_df = common_movies.pivot_table(index=["userId"], columns=["title"], values="rating")
     return user_movie_df
