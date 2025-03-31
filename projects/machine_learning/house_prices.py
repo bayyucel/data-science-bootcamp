@@ -1,3 +1,8 @@
+
+####################################################################################################
+#https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/evaluation
+####################################################################################################
+
 import warnings
 import joblib
 import pydotplus
