@@ -66,6 +66,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="C:\Users\yucel\PycharmProjects\week9-cases\datasets\scoutium_potential_labels.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\datasets\amazon_review.csv">
           <value>
             <Attribute>
